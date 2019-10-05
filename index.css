@@ -11,6 +11,10 @@
     border-radius: 10%;
     color: white;
 }
+.button:hover
+{
+    background: #f64f59;
+}
 .textview
 {
     width: 303px;
